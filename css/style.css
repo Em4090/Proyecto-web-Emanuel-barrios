@@ -1,0 +1,19 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+#banner {
+    background: url('../img/banner.jpg') center center/cover;
+    color: white;
+    padding: 100px 0;
+}
+
+h1, h2 {
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+}
+
+footer {
+    background-color: #f8f9fa;
+}
+
